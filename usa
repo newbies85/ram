@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",American Classic TV
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Apple Sauce Network
+https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Blush TV
+https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Brut
+http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="CSPAN.us" group-title="USA CHANNEL",C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="CSPAN2.us" group-title="USA CHANNEL",C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",CBS (WFOR)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Cheddar Business
+https://live.chdrstatic.com/cheddar/primary/1.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Cheddar News
+https://live.chdrstatic.com/cbn/primary/1.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0 tvg-id="CMC.hr" group-title="USA CHANNEL",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Dream TV (New!)
+https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Fashion Channel
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",It's At The Movies (New!)
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
+#EXTINF:0 tvg-id="JewelryTelevision.us" group-title="USA CHANNEL",Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Metro Cable Network
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Mo Laughter TV
+https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0 tvg-id="NASATV.us" group-title="USA CHANNEL",NASA TV
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",NASA TV Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Red Bull TV (Opt-1)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",SafeTV4U2
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",The Titanic Channel
+https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+#EXTINF:0 tvg-id="TheWeatherChannel.us" group-title="USA CHANNEL",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Voice of America (PST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Voice of America (EST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",WXYZ ABC 7 Detroit (New!)
+https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Xcorps TV
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Z Living (Opt-2)
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Akaku 53 Hawaii
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Akaku 54 Hawaii
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Akaku 55 Hawaii
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Beach TV CSULB
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Capital City Connection Montgomery
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",CC-TV Charlotte County
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",CCX Media Minnesota
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",CGTV Champaign
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",onnecticut Network
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Connecticut Network (Court Feed)
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Connecticut Network (Live Stream 2)
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Escambia TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Greensboro TV
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",KBVR TV OSU
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Lake Havasu City 4
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Olelo Community Media 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Olelo Community Media 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Olelo Community Media 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Olelo Community Media 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",PATV Great Neck
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Tempe 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Town of Vienna Community Network (Opt-2)
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",UWW-TV UW Whitewater
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",WCCA TV Worcester
+http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Baton Rouge - WBRZ 2 Plus
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Boston - 7News (Opt-1) (New!)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Boston - Fox News 25 (Opt-1)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",The Bronx - News 12
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Brooklyn - News 12
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Charlotte - WCNC Breaking News (New!)
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Chattanooga - ABC 9 News (New!)
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Connecticut - News 12
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Connecticut - News 12 (Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Dayton - WHIO 7 News
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Hartford - WVIT 30 News
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Hudson Valley - News 12
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Las Vegas - 13 Action News (New!)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Long Island - News 12 (Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Long Island - News 12
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Los Angeles - CBS News (New!)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",New Jersey - News 12 (Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Omaha -3News Now (New!)
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Pittsburgh - WPXI 11 News
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Seattle - KIRO 7 News
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Seattle - KOMO 4 News
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Washington DC - CBS 9 News (New!)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNEL",Washington DC - NBC 4 News
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
