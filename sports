@@ -1,4 +1,77 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",beIN Sports 1 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",beIN Sports 2 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",beIN Sports 3 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",beIN Sports 4 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",beIN Sports 5 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",beIN Sports 6 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="SPORTS",EURO SPORT 1
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="SPORTS",EURO SPORT 2
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",FOX Sport HD 1 -USA-
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="SPORTS",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",CBC SPORT
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="SPORTS",Sky Sports Premier League
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="SPORTS",Sky Sports Football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:0 tvg-id="TenisPremium1.pl" group-title="SPORTS",TENIS 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:0 tvg-id="TenisPremium2.pl" group-title="SPORTS",TENIS 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SPORT MAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Uni Sports
+http://unisportslive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="SPORTS",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",WWE LIVE 1
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",WWE LIVE 2
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+#EXTINF:0 tvg-id="DDSports.in" group-title="SPORTS",DSPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0 tvg-id="DDSports.in" group-title="SPORTS",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",KUWAIT ONE
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",AUTO MOTO
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",CT-Sport
+http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",FOX Sport HD 1 -USA-
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-id="SuperTennis.it" group-title="SPORTS",Super Tennis
