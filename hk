@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="HK",A1台
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HK",港台電視31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HK",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HK",鳳凰衛視中文台
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="HK",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HK",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="HK",亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="HK",港台電視32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HK",鳳凰衛視資訊台HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="HK",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HK",香港衛視
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
