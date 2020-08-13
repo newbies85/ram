@@ -1,5 +1,27 @@
-
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",100 AUTOMOTO TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",DUBAI RACING
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="SPORTS",Eleven Sports 1 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1874
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="SPORTS",Eleven Sports 2 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1875
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="SPORTS",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTSL",BT SPORT 1 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BT SPORT 2 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="SPORTS",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="FoxSports.it" group-title="SPORTS",FOX SPORT1
