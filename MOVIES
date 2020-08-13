@@ -1,5 +1,17 @@
 
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",CINEMA World
+http://210.210.155.35/uq2663/h/h04/02.m3u8
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="MOVIES",HITS
+http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="Kix.uk" group-title="MOVIES",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",THRILL
+http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",My Cinema
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",BEIN MOVIES
+http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8?checkedby_iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="MOVIES",黑莓电影 FHD(杭州移动)
 http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
 
