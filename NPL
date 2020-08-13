@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="nepal",AVENUES TV
+http://stream-e30453a4b.nmbs.top/m3u/Nepal/f456950dd9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nepal",HIMALAYA TV
+http://stream-e30453a4b.nmbs.top/m3u/Nepal/96ca8abf6e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nepal",KANTIPUR TV
+http://stream-e30453a4b.nmbs.top/m3u/Nepal/f8c3173730.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nepal",MOUNTAIN TV
+http://stream-e30453a4b.nmbs.top/m3u/Nepal/284bc38189.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nepal",NTV PLUS
+http://stream-e30453a4b.nmbs.top/m3u/Nepal/640d53a32a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nepal",TV FILMY
+http://stream-e30453a4b.nmbs.top/m3u/Nepal/6a45212329.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nepal",VISION NEPAL
+http://stream-e30453a4b.nmbs.top/m3u/Nepal/69d3e8d1af.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="nepal",Kantipur TV
+https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/playlist.m3u8
