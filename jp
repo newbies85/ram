@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",NTV News24
+https://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
