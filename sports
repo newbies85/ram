@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Astro Sport",FOX Sport HD 1 -USA-
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="Astro Sport",Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Astro Sport",TVRI Sport -INDO-
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="BTSport1.uk" group-title="SPORTS",BT Sport 1 FHD
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:0 tvg-id="BTSport2.uk" group-title="SPORTS",BT Sport 2 FHD
