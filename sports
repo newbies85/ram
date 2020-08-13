@@ -2,6 +2,12 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="SPORTS",FOX SPORT1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",WWE TV
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",beIN Sports 1 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",beIN Sports 2 Arab
