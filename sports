@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="SPORTS",BT Sport 1 FHD
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="SPORTS",BT Sport 2 FHD
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Badminton 1
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Badminton 2
+https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
