@@ -1,20 +1,14 @@
 #EXTM3U
-
-
 #EXTINF:0 tvg-id="ZeeBollywood.us" group-title="HINDI",ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0 tvg-id="ZeeCafe.uk" group-title="HINDI",Zee Cafe
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ZeeCinema.uk" group-title="HINDI",Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-
-#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="HINDI",Zee Cinema
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:0 tvg-id="ZeeCinema.uk" group-title="HINDI",ZEE cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:0 tvg-id="ZeeCinema.uk" group-title="HINDI",ZEE CINEMA
 http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-id="ZeeSmile.in" group-title="HINDI",ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-id="zee" group-title="HINDI",ZEE TV
@@ -31,44 +25,34 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",B4U Kadak (New!)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
 #EXTINF:0 tvg-id="B4UMusic.uk" group-title="HINDI",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
-
 #EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="HINDI",BBC Lifestyle
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="HINDI",BBC Lifestyle
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
-#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="HINDI",BBC Lifestyle
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:0 tvg-id="cnn" group-title="HINDI",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:0 tvg-id="Colors.uk" group-title="HINDI",Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-
 #EXTINF:0 tvg-id="ColorsInfinity.in" group-title="HINDI",Colors Infinity
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Colors Rishtey
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
-
 #EXTINF:0 tvg-id="DDNews.in" group-title="HINDI",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Desi Channel (Opt-1)
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-
 #EXTINF:0 tvg-id="fashion" group-title="HINDI",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:0 tvg-id="fox-life" group-title="HINDI",Fox Life
@@ -77,10 +61,8 @@ https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI",FYI TV18
 https://itpolly.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",History TV HD
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Kadak Hits
@@ -91,10 +73,8 @@ https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",N TV MOVIES
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:0 tvg-id="natgeo" group-title="HINDI",Nat Geo
@@ -103,21 +83,16 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:0 tvg-id="natgeowild" group-title="HINDI",Nat Geo Wild
 https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Shemaroo Hindi
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",SHEMARRO KIDS
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:0 tvg-id="set" group-title="HINDI",Sony
 http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-id="SonyMax.uk" group-title="HINDI",Sony Max
 http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="SonyMax2.uk" group-title="HINDI",Sony Max 2
 http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Sony WAAH
 http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="StarBharat.uk" group-title="HINDI",Star Bharat
@@ -166,11 +141,8 @@ https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI",ZEE ANMOL
 http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:0 tvg-id="Zing.uk" group-title="HINDI",Zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
-
 #EXTINF:0 tvg-id="Zing.uk" group-title="HINDI",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:0 tvg-id="zoom" group-title="HINDI",Zoom
