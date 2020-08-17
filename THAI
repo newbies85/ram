@@ -19,3 +19,44 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="THAI",Smart SME Channel
 https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="THAI",Channel 8 Thailand
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:0 tvg-id="stb" group-title="THAI",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",NBT Bangkok
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",NBT Bangkok
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",NBT Central
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",News 1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:0 tvg-id="ort-hd" group-title="THAI",ONE HD
+https://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",PPTV
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Smart SME Channel
+https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Suwannabhumi TV
+http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Thai TV 3
+https://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Thai TV 7
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Thairath TV 32
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Thairath TV 32
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
