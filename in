@@ -15,12 +15,10 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:0 tvg-id="ZeeTV.uk" group-title="HINDI",ZEE TV HD
 http://216.144.250.174/Zee_TV_HD_01/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="zee" group-title="HINDI",ZEE TV SD
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Aaj Tak (Opt-1)
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ABPNews.uk" group-title="HINDI",ABP News
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+
 #EXTINF:0 tvg-id="Pictures.in" group-title="HINDI",And Pictures
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI",Anjan
