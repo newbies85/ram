@@ -1,67 +1,67 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",CNEX Taiwan
-http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE?checkedby:iptvcat.com
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",民視新聞台
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:iptvcat.com
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",FTV News
-http://210.61.56.23/hls/ftvtv/index.m3u8?checkedby:iptvcat.com
+http://210.61.56.23/hls/ftvtv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",TVBS新聞台
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8?checkedby:iptvcat.com
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",TVBS新聞台
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8?checkedby:iptvcat.com
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",民视新聞
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:iptvcat.com
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",HBO Asia
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE?checkedby:iptvcat.com
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",TVBS歡樂台
-http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE?checkedby:iptvcat.com
+http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",信吉電視
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8?checkedby:iptvcat.com
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",番薯衛星電視台
-http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&checkedby:iptvcat.com
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",信吉電視
-http://220.130.241.203:1935/sjtv/livestream/playlist.m3u8?checkedby:iptvcat.com
+http://220.130.241.203:1935/sjtv/livestream/playlist.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",博斯魅力網
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?checkedby:iptvcat.com
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",唯心电视台wxtv
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8?checkedby:iptvcat.com
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",希望電視台
-https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8?checkedby:iptvcat.com
+https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",希望電視台
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8?checkedby:iptvcat.com
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",空中英語教室
-http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE?checkedby:iptvcat.com
+http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播交通委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播內政委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播司法及法制委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播外交及國防委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播教育及文化委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播朝野協商
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播社會福利及衛生環境委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播經濟委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播財政委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",立法院IVOD直播院會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Taiwan",緯來體育台
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com
+http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?
